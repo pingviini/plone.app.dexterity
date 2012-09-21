@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2012-09-16 23:18+0000\n"
+"POT-Creation-Date: 2012-09-21 14:55+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -63,6 +63,9 @@ msgstr ""
 
 #: ../browser/behaviors.py:53
 msgid "Behaviors successfully updated."
+msgstr ""
+
+msgid "Categorization"
 msgstr ""
 
 #: ../browser/types.py:43
@@ -148,6 +151,9 @@ msgstr ""
 #: ../browser/layout.py:14
 #: ../browser/overview.py:19
 msgid "Overview"
+msgstr ""
+
+msgid "Ownership"
 msgstr ""
 
 #: ../browser/types.py:48
