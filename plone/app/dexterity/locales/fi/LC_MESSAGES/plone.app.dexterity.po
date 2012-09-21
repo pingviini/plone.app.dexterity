@@ -27,7 +27,7 @@ msgid "Add New Content Type…"
 msgstr "Lisää uusi sisältötyyppi…"
 
 msgid "Adds Dublin Core metadata fields (equals Basic metadata + Categorization + Effective range + Ownership)"
-msgstr "Lisää Dublin Core -metatieto kentät (vastaa perusmetatieto-, kategorisointi-, voimassaoloaika- ja omistusoikeuslaajennoksia)."
+msgstr "Lisää Dublin Core -metatietokentät (vastaa perusmetatieto-, kategorisointi-, voimassaoloaika- ja omistusoikeuslaajennoksia)."
 
 msgid "Adds a title and description"
 msgstr "Lisää otsikko- ja kuvauskentät."
@@ -77,7 +77,7 @@ msgid "Clone Content Type"
 msgstr "Kloonaa sisältötyyppi"
 
 msgid "Configures various components needed for full Dexterity support."
-msgstr "Määrittelee komponetteja täyttä Dexterity tukea varten."
+msgstr "Määrittelee komponetteja täyttä Dexterity-tukea varten."
 
 #: ../interfaces.py:57
 msgid "Container"
@@ -115,7 +115,7 @@ msgstr "Vie skeema"
 
 #: ../browser/types.py:56
 msgid "Export Type Profiles"
-msgstr "View sisältötyypin profiili"
+msgstr "Vie sisältötyypin profiili"
 
 #: ../browser/fields.py:9
 #: ../browser/layout.py:15
