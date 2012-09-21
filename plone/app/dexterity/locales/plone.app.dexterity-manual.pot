@@ -86,10 +86,10 @@ msgstr ""
 msgid "Make all items of this type a navigation root"
 msgstr ""
 
-msgid ""
+msgid "Categorization"
 msgstr ""
 
-msgid ""
+msgid "Ownership"
 msgstr ""
 
 msgid ""
