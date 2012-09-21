@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plone.app.dexterity\n"
+"POT-Creation-Date: 2012-09-21 13:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: Jukka Ojaniemi <jukka.ojaniemi@gmail.com>\n"
+"Language-Team: Finnish <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: DOMAIN\n"
+
+#: ../interfaces.py:67
+msgid "# of items"
+msgstr "Kohteiden määrä"
+
+#: ../browser/add_type.py:12
+msgid "Add Content Type"
+msgstr "Lisää sisältötyyppi"
+
+#: ../browser/types_listing.pt:75
+msgid "Add New Content Type…"
+msgstr "Lisää uusi sisältötyyppi…"
+
+msgid "Adds Dublin Core metadata fields (equals Basic metadata + Categorization + Effective range + Ownership)"
+msgstr "Lisää Dublin Core -metatieto kentät (vastaa perusmetatieto-, kategorisointi-, voimassaoloaika- ja omistusoikeuslaajennoksia)."
+
+msgid "Adds a title and description"
+msgstr "Lisää otsikko- ja kuvauskentät."
+
+msgid "Adds creator, contributor, and rights fields"
+msgstr "Lisää tekijä-, avustaja- ja tekijänoikeus-kentät."
+
+msgid "Adds keywords and language setting"
+msgstr "Lisää avainsana- ja kieliasetukset."
+
+msgid "Allow items to be excluded from navigation"
+msgstr "Sallii kohteiden piilottamisen navigoinnista."
+
+msgid "Allow items to have next previous navigation enabled"
+msgstr "Sallii seuraava/edellinen-navigoinnin aktivoinnin."
+
+msgid "Assign an effective and/or expiration date"
+msgstr "Mahdollistaa sisällön voimaantulo- ja/tai vanhenemispäivän asettamisen."
+
+msgid "Automatically generate short URL name for content based on its initial title"
+msgstr "Luo tunniste automaattisesti sisällön otsikon perusteella."
+
+msgid "Automatically generate short URL name for content based on its primary field file name"
+msgstr "Luo tunniste automaattisesti tiedoston nimen perusteella."
+
+msgid "Basic metadata"
+msgstr "Perusmetatiedot"
+
+#: ../browser/behaviors.py:51
+#: ../browser/layout.py:16
+msgid "Behaviors"
+msgstr "Käytöslaajennokset"
+
+#: ../browser/behaviors.py:53
+msgid "Behaviors successfully updated."
+msgstr "Käytöslaajennokset päivitetty."
+
+msgid "Categorization"
+msgstr "Kategorisointi"
+
+#: ../browser/types.py:43
+msgid "Clone"
+msgstr "Kloonaa"
+
+#: ../browser/clone_type.py:11
+msgid "Clone Content Type"
+msgstr "Kloonaa sisältötyyppi"
+
+msgid "Configures various components needed for full Dexterity support."
+msgstr "Määrittelee komponetteja täyttä Dexterity tukea varten."
+
+#: ../interfaces.py:57
+msgid "Container"
+msgstr "Kansiomainen"
+
+#: ../interfaces.py:52
+msgid "Description"
+msgstr "Kuvaus"
+
+#: ../browser/types.py:186
+#: ../profiles/default/actions.xml
+#: ../profiles/default/controlpanel.xml
+msgid "Dexterity Content Types"
+msgstr "Dexterity sisältötyypit"
+
+#: ../browser/types.py:155
+msgid "Dexterity content types"
+msgstr "Dexterity sisältötyypit"
+
+msgid "Dublin Core metadata"
+msgstr "Dublin Core -metatiedot"
+
+msgid "Effective range"
+msgstr "Voimassaoloaika"
+
+msgid "Enable next previous navigation for all items of this type"
+msgstr "Ota seuraava/edellinen -navigointi käyttöön kaikille kohteille."
+
+msgid "Exclude From navigation"
+msgstr "Piilota navigoinnista"
+
+#: ../browser/types.py:68
+msgid "Export Schema Models"
+msgstr "Vie skeema"
+
+#: ../browser/types.py:56
+msgid "Export Type Profiles"
+msgstr "View sisältötyypin profiili"
+
+#: ../browser/fields.py:9
+#: ../browser/layout.py:15
+msgid "Fields"
+msgstr "Kentät"
+
+#: ../interfaces.py:58
+msgid "Items of this type will be able to contain other items."
+msgstr "Tämän tyyppiset kohteet voivat sisältää muista kohteita."
+
+msgid "Make all items of this type a navigation root"
+msgstr "Tee kaikista tämän tyyppisistä kohteista navigoinnin juuritaso."
+
+msgid "Name from file name"
+msgstr "Tunniste tiedoston nimen perusteella"
+
+msgid "Name from title"
+msgstr "Tunniste otsikon perusteella"
+
+msgid "Navigation root"
+msgstr "Navigointipuun juuri"
+
+msgid "Next previous navigation"
+msgstr "Seuraava/edellinen -navigointi"
+
+msgid "Next previous navigation toggle"
+msgstr "Seuraava/edellinen -navigoinnin valinta"
+
+#: ../browser/behaviors.py:54
+msgid "No changes were made."
+msgstr "Ei muutoksia."
+
+#: ../browser/layout.py:14
+#: ../browser/overview.py:19
+msgid "Overview"
+msgstr "Yleiskatsaus"
+
+msgid "Ownership"
+msgstr "Omistusoikeus"
+
+#: ../browser/types.py:48
+msgid "Please select a single type to clone."
+msgstr "Valitse yksi tyyppi kloonattavaksi"
+
+#: ../browser/types.py:54
+msgid "Please select a type to clone."
+msgstr "Valitse tyyppi kloonattavaksi"
+
+#: ../browser/types.py:61
+msgid "Please select types to export."
+msgstr "Valitse tyypit siirtoa varten."
+
+#: ../interfaces.py:25
+msgid "Please use only letters, numbers, and the following characters: .-_"
+msgstr "Käytä vain kirjaimia, numeroita ja seuraavia merkkejä: .-_"
+
+#: ../browser/behaviors.py:52
+msgid "Select the behaviors to enable for this content type."
+msgstr "Valitse tälle sisältötyypille aktivoitavat käytöslaajennokset."
+
+#: ../behaviors/exclfromnav.py:13
+#: ../behaviors/nextprevious.py:27
+msgid "Settings"
+msgstr "Asetukset"
+
+#: ../interfaces.py:45
+msgid "Short Name"
+msgstr "Tunniste"
+
+#: ../browser/types.py:121
+msgid "The following custom content types are available for your site."
+msgstr "Sivustolla on käytettävissä seuraavat sisältötyypit."
+
+#: ../interfaces.py:78
+msgid "There is already a content type named '${name}'"
+msgstr "Sivustolla on jo '${name}' niminen sisältötyyppi."
+
+#: ../interfaces.py:41
+msgid "Type Name"
+msgstr "Sisältötyypin nimi"
+
+#: ../browser/add_type.py:48
+msgid "Type added successfully."
+msgstr "Sisältötyyppi lisätty."
+
+#: ../browser/clone_type.py:28
+msgid "Type cloned successfully."
+msgstr "Sisältötyyppi kloonattu."
+
+#: ../interfaces.py:46
+msgid "Used for programmatic access to the type."
+msgstr "Käytetään sisältötyyppiin liittyvässä toimintalogiikassa."
+
+#. Default: "Click the \"Add Content Type\" button to begin creating  a new custom content type."
+#: ../browser/types.py:124
+msgid "help_addcontenttype_button"
+msgstr "Valitse \"Lisää sisältötyyppi\" luodaksesi uuden sisältötyypin."
+
+#. Default: "If selected, this item will not appear in the navigation tree"
+#: ../behaviors/exclfromnav.py:18
+msgid "help_exclude_from_nav"
+msgstr "Jos tämä on valittu, kohde ei näy navigaatiopuussa."
+
+#. Default: "This enables next/previous widget on content items contained in this folder."
+#: ../behaviors/nextprevious.py:32
+msgid "help_nextprevious"
+msgstr "Ottaa käyttöön seuraava/edellinen -widgetin tämän kansion sisällä olevissa kohteissa."
+
+#. Default: "Exclude from navigation"
+#: ../behaviors/exclfromnav.py:17
+msgid "label_exclude_from_nav"
+msgstr "Piilota navigoinnista."
+
+#. Default: "Enable next previous navigation"
+#: ../behaviors/nextprevious.py:31
+msgid "label_nextprevious"
+msgstr "Ota seuraava/edellinen -navigointi käyttöön."
+
